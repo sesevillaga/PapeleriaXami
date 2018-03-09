@@ -1,0 +1,230 @@
+c:\users\sergio\documents\visual studio 2015\Projects\PapeleriaXami\PapeleriaXami\bin\Debug\PapeleriaXami.exe.config
+c:\users\sergio\documents\visual studio 2015\Projects\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.csprojResolveAssemblyReference.cache
+c:\users\sergio\documents\visual studio 2015\Projects\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.VentanaPrincipal.resources
+c:\users\sergio\documents\visual studio 2015\Projects\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.Properties.Resources.resources
+c:\users\sergio\documents\visual studio 2015\Projects\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.Registrar_Cliente.resources
+c:\users\sergio\documents\visual studio 2015\Projects\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.csproj.GenerateResource.Cache
+c:\users\sergio\documents\visual studio 2015\Projects\PapeleriaXami\PapeleriaXami\bin\Debug\PapeleriaXami.exe
+c:\users\sergio\documents\visual studio 2015\Projects\PapeleriaXami\PapeleriaXami\bin\Debug\PapeleriaXami.pdb
+c:\users\sergio\documents\visual studio 2015\Projects\PapeleriaXami\PapeleriaXami\bin\Debug\MySql.Data.dll
+c:\users\sergio\documents\visual studio 2015\Projects\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.exe
+c:\users\sergio\documents\visual studio 2015\Projects\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.pdb
+c:\users\sergio\documents\visual studio 2015\Projects\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ConClientes.resources
+c:\users\sergio\documents\visual studio 2015\Projects\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.BuscarCliente.resources
+c:\users\sergio\documents\visual studio 2015\Projects\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.RegistrarCompras.resources
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ConsultasCompras.resources
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.BuscarCompras.resources
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.RegEmpleado.resources
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ConEmpleado.resources
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.BusEmpleado.resources
+C:\Users\Sergio\documents\visual studio 2015\Projects\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ModCliente.resources
+C:\Users\Sergio\documents\visual studio 2015\Projects\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.RegProveedores.resources
+C:\Users\Sergio\documents\visual studio 2015\Projects\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.BuscarProveedores.resources
+C:\Users\Sergio\documents\visual studio 2015\Projects\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ConProveedores.resources
+C:\Users\Sergio\documents\visual studio 2015\Projects\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ModEmpleado.resources
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ModProveedores.resources
+C:\Users\jhon_\Documents\ing carlos\Papeleria\PapeleriaXami\PapeleriaXami\bin\Debug\PapeleriaXami.exe.config
+C:\Users\jhon_\Documents\ing carlos\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.exe
+C:\Users\jhon_\Documents\ing carlos\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.pdb
+C:\Users\jhon_\Documents\ing carlos\Papeleria\PapeleriaXami\PapeleriaXami\bin\Debug\PapeleriaXami.exe
+C:\Users\jhon_\Documents\ing carlos\Papeleria\PapeleriaXami\PapeleriaXami\bin\Debug\PapeleriaXami.pdb
+C:\Users\jhon_\Documents\ing carlos\Papeleria\PapeleriaXami\PapeleriaXami\bin\Debug\MySql.Data.dll
+C:\Users\jhon_\Documents\ing carlos\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.csprojResolveAssemblyReference.cache
+C:\Users\jhon_\Documents\ing carlos\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.BuscarCliente.resources
+C:\Users\jhon_\Documents\ing carlos\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.BuscarCompras.resources
+C:\Users\jhon_\Documents\ing carlos\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.BuscarProveedores.resources
+C:\Users\jhon_\Documents\ing carlos\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.BusEmpleado.resources
+C:\Users\jhon_\Documents\ing carlos\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ConClientes.resources
+C:\Users\jhon_\Documents\ing carlos\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ConEmpleado.resources
+C:\Users\jhon_\Documents\ing carlos\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ConProveedores.resources
+C:\Users\jhon_\Documents\ing carlos\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ConsultasCompras.resources
+C:\Users\jhon_\Documents\ing carlos\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.VentanaPrincipal.resources
+C:\Users\jhon_\Documents\ing carlos\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ModCliente.resources
+C:\Users\jhon_\Documents\ing carlos\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ModEmpleado.resources
+C:\Users\jhon_\Documents\ing carlos\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ModProveedores.resources
+C:\Users\jhon_\Documents\ing carlos\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.Properties.Resources.resources
+C:\Users\jhon_\Documents\ing carlos\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.RegEmpleado.resources
+C:\Users\jhon_\Documents\ing carlos\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.RegistrarCompras.resources
+C:\Users\jhon_\Documents\ing carlos\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.Registrar_Cliente.resources
+C:\Users\jhon_\Documents\ing carlos\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.RegPedido.resources
+C:\Users\jhon_\Documents\ing carlos\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.RegProductos.resources
+C:\Users\jhon_\Documents\ing carlos\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.RegProveedores.resources
+C:\Users\jhon_\Documents\ing carlos\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.csproj.GenerateResource.Cache
+C:\Users\jhon_\Documents\ing carlos\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ConProductos.resources
+C:\Users\jhon_\Documents\ing carlos\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.BusProductos.resources
+C:\Users\jhon_\Documents\ing carlos\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.EliProductos.resources
+C:\Users\jhon_\Documents\ing carlos\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ModProductos.resources
+C:\Users\jhon_\Documents\ing carlos\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.Eliminar_Clientes.resources
+C:\Users\jhon_\Documents\ing carlos\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.Eliminar_Empleado.resources
+I:\PapeleriaXami\PapeleriaXami\bin\Debug\PapeleriaXami.exe.config
+I:\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.exe
+I:\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.pdb
+I:\PapeleriaXami\PapeleriaXami\bin\Debug\PapeleriaXami.exe
+I:\PapeleriaXami\PapeleriaXami\bin\Debug\PapeleriaXami.pdb
+I:\PapeleriaXami\PapeleriaXami\bin\Debug\MySql.Data.dll
+I:\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.csprojResolveAssemblyReference.cache
+I:\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.BuscarCliente.resources
+I:\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.BuscarCompras.resources
+I:\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.BuscarProveedores.resources
+I:\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.BusEmpleado.resources
+I:\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.BusProductos.resources
+I:\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ConClientes.resources
+I:\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ConEmpleado.resources
+I:\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ConProductos.resources
+I:\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ConProveedores.resources
+I:\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ConsultasCompras.resources
+I:\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.Eliminar_Clientes.resources
+I:\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.Eliminar_Compras.resources
+I:\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.Eliminar_Empleado.resources
+I:\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.EliProductos.resources
+I:\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.VentanaPrincipal.resources
+I:\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ModCliente.resources
+I:\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ModCompras.resources
+I:\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ModEmpleado.resources
+I:\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ModProductos.resources
+I:\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ModProveedores.resources
+I:\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.Properties.Resources.resources
+I:\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.RegEmpleado.resources
+I:\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.RegistrarCompras.resources
+I:\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.Registrar_Cliente.resources
+I:\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.RegPedido.resources
+I:\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.RegProductos.resources
+I:\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.RegProveedores.resources
+I:\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.csproj.GenerateResource.Cache
+I:\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.EliCompras.resources
+C:\Users\jhon_\Documents\ing carlos\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.EliCompras.resources
+C:\Users\jhon_\Documents\ing carlos\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ModCompras.resources
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\bin\Debug\PapeleriaXami.exe.config
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.exe
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.pdb
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\bin\Debug\PapeleriaXami.exe
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\bin\Debug\PapeleriaXami.pdb
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\bin\Debug\MySql.Data.dll
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.BuscarCliente.resources
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.BuscarCompras.resources
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.BuscarProveedores.resources
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.BusEmpleado.resources
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.BusProductos.resources
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ConClientes.resources
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ConEmpleado.resources
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ConProductos.resources
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ConProveedores.resources
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ConsultasCompras.resources
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.EliCompras.resources
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.Eliminar_Clientes.resources
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.Eliminar_Empleado.resources
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.EliProductos.resources
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.EliProveedores.resources
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.VentanaPrincipal.resources
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ModCliente.resources
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ModCompras.resources
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ModEmpleado.resources
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ModProductos.resources
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ModProveedores.resources
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.Properties.Resources.resources
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.RegEmpleado.resources
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.RegistrarCompras.resources
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.Registrar_Cliente.resources
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.RegPedido.resources
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.RegProductos.resources
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.RegProveedores.resources
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.RegVentas.resources
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.csproj.GenerateResource.Cache
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ModVentas.resources
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.BusVentas.resources
+C:\Users\Sergio\Desktop\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.eliVentas.resources
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\bin\Debug\PapeleriaXami.exe.config
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.exe
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.pdb
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\bin\Debug\PapeleriaXami.exe
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\bin\Debug\PapeleriaXami.pdb
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\bin\Debug\MySql.Data.dll
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.csprojResolveAssemblyReference.cache
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.BuscarCliente.resources
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.BuscarCompras.resources
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.BuscarProveedores.resources
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.BusEmpleado.resources
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.BusPedido.resources
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.BusProductos.resources
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.BusVentas.resources
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ConClientes.resources
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ConEmpleado.resources
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ConProductos.resources
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ConProveedores.resources
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ConsultasCompras.resources
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.EliCompras.resources
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.Eliminar_Clientes.resources
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.Eliminar_Empleado.resources
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.EliProductos.resources
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.EliProveedores.resources
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.eliVentas.resources
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.VentanaPrincipal.resources
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ModCliente.resources
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ModCompras.resources
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ModEmpleado.resources
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ModProductos.resources
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ModProveedores.resources
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ModVentas.resources
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.Properties.Resources.resources
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.RegEmpleado.resources
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.RegistrarCompras.resources
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.Registrar_Cliente.resources
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.RegPedido.resources
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.RegProductos.resources
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.RegProveedores.resources
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.RegVentas.resources
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.csproj.GenerateResource.Cache
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ModificarPedido.resources
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ConPedidos.resources
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ConVentas.resources
+F:\BASES DE DATOS\Original\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.EliminarPedido.resources
+I:\Evidencias\4 Cuarto Semestre\Fundamentos De Base De Datos\14070011 Luis Antonio Gaarcia Fco\Unidad VII\PapeleriaXami\PapeleriaXami\bin\Debug\PapeleriaXami.exe.config
+I:\Evidencias\4 Cuarto Semestre\Fundamentos De Base De Datos\14070011 Luis Antonio Gaarcia Fco\Unidad VII\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.exe
+I:\Evidencias\4 Cuarto Semestre\Fundamentos De Base De Datos\14070011 Luis Antonio Gaarcia Fco\Unidad VII\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.pdb
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\bin\Debug\PapeleriaXami.exe.config
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\bin\Debug\PapeleriaXami.exe
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\bin\Debug\PapeleriaXami.pdb
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.csprojResolveAssemblyReference.cache
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.BuscarCliente.resources
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.BuscarCompras.resources
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.BuscarProveedores.resources
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.BusEmpleado.resources
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.BusPedido.resources
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.BusProductos.resources
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.BusVentas.resources
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ConClientes.resources
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ConEmpleado.resources
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ConPedidos.resources
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ConProductos.resources
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ConProveedores.resources
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ConsultasCompras.resources
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ConVentas.resources
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.EliCompras.resources
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.EliminarPedido.resources
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.Eliminar_Clientes.resources
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.Eliminar_Empleado.resources
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.EliProductos.resources
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.EliProveedores.resources
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.eliVentas.resources
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.VentanaPrincipal.resources
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ModCliente.resources
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ModCompras.resources
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ModEmpleado.resources
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ModificarPedido.resources
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ModProductos.resources
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ModProveedores.resources
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.ModVentas.resources
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.Properties.Resources.resources
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.RegEmpleado.resources
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.RegistrarCompras.resources
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.Registrar_Cliente.resources
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.RegPedido.resources
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.RegProductos.resources
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.RegProveedores.resources
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.RegVentas.resources
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.csproj.GenerateResource.Cache
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.csproj.CoreCompileInputs.cache
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.exe
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\obj\Debug\PapeleriaXami.pdb
+D:\8° Semestre\INNOVACION Y CALIDAD DEL SOFTWARE\UNIDAD 2\Papeleria\PapeleriaXami\PapeleriaXami\bin\Debug\MySql.Data.dll
